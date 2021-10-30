@@ -32,5 +32,4 @@ export class Searchbar extends Component {
             </div>
         );
     }
-
 }
